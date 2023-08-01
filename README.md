@@ -1,8 +1,5 @@
 # FundMe - Smart Contract for Crowdfunding on Ethereum
 
-![FundMe Logo](https://example.com/fundme-logo.png)
-
-*Note: The information provided in this README is based on the assumption that the project "FundMe" and the associated "PriceConverter" library exist as of September 2021.*
 
 ## Introduction
 
